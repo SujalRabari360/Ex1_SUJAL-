@@ -12,8 +12,8 @@ package exercise1;
  */
 public class Card {
 
-   private String suit; //clubs, spades, diamonds, hearts
-   private int value;//1-13
+   private String suit;
+   private int value;
 
    public static final String [] SUITS = {"Hearts", "Diamonds", "Spades", "Clubs"};
     /**
